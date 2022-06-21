@@ -20,3 +20,6 @@ A simple project built in unity to help demonstrate how supply and demand is aff
 ![Alt text](CapstonePreviewPic/PreviewPic4.PNG?raw=true "Title")
 ![Alt text](CapstonePreviewPic/PreviewPic2.PNG?raw=true "Title")
 - To do so, click on a building, bottom right ui will update text to corresponding shop and then boom, you can give away money to other company.
+
+## Operating the project in Unity
+- To move the camera around, use the arrow keys.
